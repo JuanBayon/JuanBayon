@@ -2,7 +2,7 @@
 
 I am Juan Bayon, full stack developer, with a professional certificate, actually studying the bachelor's degree of tecniques os software development. I also have studies in data sciencie and machine learning. I am a passionate coder who enjoy learning new technologies constantly. 
 
-I am open to colaborate in any project, reach me by [email](mailto:juanbayonfernandez@gmail.com)
+I am open to colaborate, reach me by [email](mailto:juanbayonfernandez@gmail.com)
 
 **Coding skills**
 
