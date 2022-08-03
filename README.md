@@ -1,8 +1,8 @@
 <h1>Hello everybody! 👋</h1>
 
-I am Juan Bayon, full stack developer, with a professional certificate, actually studying the bachelor's degree of tecniques of software development. I also have studied data sciencie and machine learning. I am passionate about coding and I enjoy learning new technologies constantly. 
+I am Juan Bayon, full stack developer. I have also studied data sciencie with machine learning. I am passionate about writing code and I enjoy learning new technologies. I love watching series and spending time with friends. I always do my best in my projects and I'm pleased to connect with new colleagues. Contact me!
 
-I am open to colaborate, reach me by [email](mailto:juanbayonfernandez@gmail.com)
+Reach me by [email](mailto:juanbayonfernandez@gmail.com) or [discord](https://discordapp.com/users/829315710198087750/)
 
 **Coding skills**
 
