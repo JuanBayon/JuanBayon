@@ -41,6 +41,6 @@ Reach me by [email](mailto:juanbayonfernandez@gmail.com) or [discord](https://di
 <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
 </p>
 
- You can check my [webpage](https://www.juanbayonfernandez.ddns.net) if you want to know more about me!
+ You can check my [webpage](https://juanbayon.com) if you want to know more about me!
  
  <img align="center" alt="GIF" src="https://github.com/JuanBayon/Resources/blob/main/coding.gif" width="500" height="320" />
