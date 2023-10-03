@@ -1,6 +1,6 @@
 <h1>Hello everybody! 👋</h1>
 
-I am Juan Bayon, full stack developer. I have also studied data sciencie with machine learning. I am passionate about writing code and I enjoy learning new technologies. I love watching series and spending time with friends. I always do my best in my projects and I'm pleased to connect with new colleagues. Contact me!
+Let me introduce myself. I am Juan Bayon, full stack developer and data sciencientist. I am passionate about writing code and using new techonologies. I always do my best in my projects and I'm pleased to connect with new colleagues. Contact me!
 
 Reach me by [email](mailto:juanbayonfernandez@gmail.com) or [discord](https://discordapp.com/users/829315710198087750/)
 
